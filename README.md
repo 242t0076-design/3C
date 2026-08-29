@@ -7,6 +7,7 @@
 *Alumnos:* Luis Santiago Mancera Herrera
           Meredyth Carol Gonzales Contreras
           Nadia Guadalupe Salazar García
+
 *Docente:* Dr. Iraham Otoniel Jose Guzman
 
 
