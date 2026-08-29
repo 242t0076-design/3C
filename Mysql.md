@@ -1,7 +1,13 @@
 # MySQL
 
-## Reporte de Instalación de MySQL
+# Instituto Tecnológico Superior de Misantla  
+*Ingeniería en Sistemas Computacionales*
 
-**Nombre:** Luis Santiago Mancera Herrera
+*Materia:* Taller de Bases de Datos   
+*Actividad:* Reporte de instalación de MySQL
 
-Este archivo servirá como base para documentar la instalación y configuración de MySQL en GitHub.
+*Alumnos:* Luis Santiago Mancera Herrera, 
+          Meredyth Carol Gonzales Contreras, 
+          Nadia Guadalupe Salazar García
+
+*Docente:* Dr. Iraham Otoniel Jose Guzman
